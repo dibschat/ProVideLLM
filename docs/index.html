@@ -1,12 +1,145 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta http-equiv="refresh" content="0; url='https://dibschat.github.io/'" />
+  <meta charset="UTF-8">
+  <meta name="author" content="Dibyadip Chatterjee">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Opening The Vocabulary of Egocentric Actions</title>
+  <link rel="stylesheet" href="stylesheet.css">
+
+  <link rel="icon" type="image/png" href="images/ddLogo.png">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css"
+    integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg=="
+    crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
 </head>
 
 <body>
-  <p>Redirecting to <a href="https://dibschat.github.io/">https://dibschat.github.io/</a></p>
+
+  <!-- Title & Authors -->
+  <table id="title" class="table" align="center" border="0" cellspacing="0" cellpadding="10">
+    <tr class="row">
+      <td class="title-text" align="center">
+        Memory‑efficient Streaming VideoLLMs for Real‑time Procedural Video Understanding
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="author-names" style="margin-bottom: 10px;">
+          <a href="https://dibschat.github.io">Dibyadip Chatterjee<sup>1,3</sup></a>
+          <a href="https://scholar.google.com/citations?user=yz2P_aUAAAAJ&hl=en">Edoardo Remelli<sup>1</sup></a>
+          <a href="https://people.csail.mit.edu/yalesong/home/">Yale Song<sup>2</sup></a>
+          <a href="https://btekin.github.io/">Bugra Tekin<sup>1</sup></a>
+          <a href="https://scholar.google.com/citations?user=BwE_L4MAAAAJ&hl=en">Abhay Mittal<sup>1</sup></a>
+          <a href="https://virtualhumans.mpi-inf.mpg.de/people/Bhatnagar.html">Bharat Bhatnagar<sup>1</sup></a>
+        </div>
+        <div class="author-names">
+          <a href="https://www.cihancamgoz.com/">Necati Cihan Camgöz<sup>1</sup></a>
+          <a href="https://shreyashampali.github.io/">Shreyas Hampali<sup>1</sup></a>
+          <a href="https://scholar.google.com/citations?user=HDYUYvwAAAAJ&hl=en">Eric Sauser<sup>1</sup></a>
+          <a href="https://scholar.google.com/citations?user=SUd2LJUAAAAJ&hl=en">Shugao Ma<sup>1</sup></a>
+          <a href="https://www.comp.nus.edu.sg/~ayao/">Angela Yao<sup>3</sup></a>
+          <a href="https://fadimesener.github.io/">Fadime Sener<sup>1</sup></a>
+        </div>
+        <div class="institution-names">
+          <p><sup>1</sup> Meta Reality Labs</p>
+          <p><sup>2</sup> FAIR, Meta</p>
+          <p><sup>3</sup> National University of Singapore</p>
+        </div>
+        <div class="conference-names">
+          <p>arXiv 2025</p>
+        </div>
+        <div class="buttons">
+          <a href="https://arxiv.org/abs/2504.13915" title="arXiv" rel="external nofollow noopener" target="_blank">
+            <i class="fas fa-file-pdf"></i> arXiv
+          </a>
+          <!-- <a href="https://github.com/dibschat/openvocab-egoAR" title="Code" rel="external nofollow noopener"
+            target="_blank">
+            <i class="fab fa-github"></i> Code
+          </a> -->
+          <a href="#" title="Code" rel="external nofollow noopener" target="_blank">
+            <i class="fab fa-github"></i> Code
+            <span style="color: #ff2800; font-size: 0.8em; margin-left: 4px;">(Coming Soon)</span>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Abstract -->
+  <table id="abstract" class="table" align="center" border="0" cellspacing="0" cellpadding="10">
+    <tr class="row">
+      <td class="cell">
+        <h1>Abstract</h1>
+        <p>
+          We introduce <em>ProVideLLM</em>, an end-to-end framework for real-time procedural video understanding.
+          ProVideLLM integrates a multimodal cache configured to store two types of tokens—verbalized text tokens,
+          which provide compressed textual summaries of long‑term observations, and visual tokens, encoded with
+          DETR‑QFormer to capture fine‑grained details from short‑term observations. This design reduces token count
+          by 22&times; over existing methods in representing one hour of long‑term observations while effectively
+          encoding present fine‑granularity. By interleaving these tokens in our multimodal cache, ProVideLLM ensures
+          sub‑linear scaling of memory and compute with video length, enabling per‑frame streaming inference at 10 FPS
+          and streaming dialogue at 25 FPS, with a minimal 2 GB GPU memory footprint. ProVideLLM also sets new
+          state‑of‑the‑art results on six procedural tasks across four datasets.
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Teaser Image -->
+  <table id="teaser" class="table" align="center" border="0" cellspacing="0" cellpadding="10">
+    <tr class="row">
+      <td class="cell" align="center">
+        <figure>
+          <img src="images/framework.png" alt="Framework overview" width="100%" />
+        </figure>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Citation -->
+  <table id="citation" class="table" align="center" border="0" cellspacing="0" cellpadding="10">
+    <tr class="row">
+      <td class="cell">
+        <h1>Citation</h1>
+        <div class="citation-box">
+          <pre><code>@article{chatterjee2025memory,
+  title={Memory-efficient Streaming VideoLLMs for Real-time Procedural Video Understanding},
+  author={Dibyadip Chatterjee and Edoardo Remelli and Yale Song and Bugra Tekin 
+    and Abhay Mittal and Bharat Bhatnagar and Necati Cihan Camgöz and Shreyas Hampali and 
+    Eric Sauser and Shugao Ma and Angela Yao and Fadime Sener},
+  journal={arXiv preprint 2504.13915},
+  year={2025}
+}</code></pre>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Footer -->
+  <footer class="footnote">
+    <table id="footers">
+      <tr>
+        <td style="text-align: left;">
+          &copy;
+          <script>document.write(new Date().getFullYear());</script> Dibyadip Chatterjee. All rights reserved.
+        </td>
+        <td style="text-align: right;">
+          Get this webpage template <a href="https://github.com/dibschat/openvocab-egoAR/tree/main/docs">here</a>
+        </td>
+      </tr>
+    </table>
+  </footer>
+
 </body>
+
+
 
 </html>
