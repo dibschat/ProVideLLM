@@ -1,0 +1,279 @@
+label_id,step_unique_id,step_name,scenario_name
+0,1567,Stir the mixture,cooking
+1,502,Check paper recipe,cooking
+2,492,Adjust the stove heat,cooking
+3,824,Read the instructions,health
+4,869,Dispose waste,health
+5,839,Rotate and swirl the swab around for 5-10 times,health
+6,817,Throw out trash or waste,cooking
+7,491,Turn on the stove,cooking
+8,1206,Whisk until the egg whites and yolks are well integrated.,cooking
+9,2181,Get a bowl,cooking
+10,78,Add salt,cooking
+11,493,Turn off the stove,cooking
+12,634,Transfer food to a plate,cooking
+13,64,Add oil,cooking
+14,830,Locate and unwrap the collection swab,health
+15,1945,Stir noodles in the pot,cooking
+16,834,cover the test tube,health
+17,1225,Tilt and rotate the skillet to allow oil or butter flow into empty space,cooking
+18,4,Wipe hands,cooking
+19,382,Cut tomato,cooking
+20,838,Slowly insert the tip of the swab into the nose,health
+21,850,Apply a few drops of the testing solution to the testing plate,health
+22,99,Add water,cooking
+23,3,Wash hands,cooking
+24,840,Slowly extract the swab from the nostril,health
+25,617,Get knife,cooking
+26,623,Get plate,cooking
+27,630,Get spoon,cooking
+28,577,Get salt,cooking
+29,863,Position the covid 19 test tube on the box,health
+30,1110,Crack eggs into a mixing bowl,cooking
+31,821,Arrange test material,health
+32,532,Get eggs,cooking
+33,563,Get oil,cooking
+34,356,Cut onions,cooking
+35,843,Unbox package,health
+36,652,Stir the tea,cooking
+37,847,Dip the swab into the testing tube,health
+38,93,Add tomato,cooking
+39,823,return the test kit items back into the box,health
+40,1103,Check heat of the skillet,cooking
+41,496,Place the skillet or pan or pot on the stove,cooking
+42,833,Locate and unwrap the test plate,health
+43,993,Press hard at a rate of 100 to 120 compressions per minute,health
+44,1323,Pour egg mixture into a skillet,cooking
+45,986,Confirm patient consciousness from the breath,health
+46,841,Repeat the process with the other nostril,health
+47,832,carefully open the test tube seal paper,health
+48,592,Get tomato,cooking
+49,629,Get spatula,cooking
+50,317,Cut cucumber,cooking
+51,330,Cut garlic cloves,cooking
+52,935,Tighten both axle nuts using a wrench,bike
+53,67,Add onions,cooking
+54,628,Get skillet or frying pan or wok,cooking
+55,234,Peel garlic cloves,cooking
+56,1212,Gently push cooked portions toward the center of the skillet using a spatula as eggs set around the edge of the skillet.,cooking
+57,868,Check the testing plate,health
+58,566,Get onions,cooking
+59,638,Get a cup or mug,cooking
+60,86,Add sugar,cooking
+61,1329,Flip the egg to cook evenly on both sides.,cooking
+62,901,Fit the tire to the wheel,bike
+63,968,brush the chain while it remains stationary,bike
+64,900,Fit the tube to the wheel,bike
+65,41,Add garlic cloves,cooking
+66,558,Get milk,cooking
+67,885,Pull the inner tube out,bike
+68,985,Tap patient to confirm consciousness,health
+69,862,Shake the test tube,health
+70,619,Get measuring tool (scoop or spoon or cup),cooking
+71,860,Remove the swab from the testing tube,health
+72,1337,Wait until water boils,cooking
+73,816,Wipe kitchen countertop,cooking
+74,964,Slowly move the chain by backpedaling with hand,bike
+75,540,Get garlic cloves,cooking
+76,603,Get chopping board,cooking
+77,374,Cut spring onions,cooking
+78,991,Place the other hand on top of the first,health
+79,585,Get sugar,cooking
+80,495,Close the lid of a skillet or pan or pot,cooking
+81,83,Add soy sauce,cooking
+82,822,Unwrap the testing tube,health
+83,1215,"As eggs begin to set, gently move spatula across bottom and side of skillet to form large, soft curds.",cooking
+84,494,Lift the lid of a skillet or pan or pot,cooking
+85,779,Put away oil,cooking
+86,911,Get bike tire lever,bike
+87,793,Put away salt,cooking
+88,906,Fully inflate the tire,bike
+89,825,fold the instruction paper,health
+90,919,Loosen both axle nuts using a wrench,bike
+91,910,Get appropriate wrenches,bike
+92,10,Add black pepper,cooking
+93,1359,Pour milk into the tea,cooking
+94,1360,Stir milk with a spoon to mix well with water and tea,cooking
+95,867,Wait for 15 minutes,health
+96,1333,Get a pot or saucepan,cooking
+97,929,Put the wheel fully seated into the fork,bike
+98,844,Unwrap testing plate,health
+99,888,Get a new inner tube,bike
+100,298,Cut bell peppers,cooking
+101,1213,Tilt and rotate skillet to allow uncooked egg to flow into empty spaces,cooking
+102,1095,Stir the salad mixture,cooking
+103,260,Peel onions,cooking
+104,85,Add spring onions,cooking
+105,28,Add cucumber,cooking
+106,1362,Simmer the tea over low heat,cooking
+107,62,Add noodles,cooking
+108,857,Open the test tube lid,health
+109,899,Engage the valve stem into the rim,bike
+110,81,Add sesame oil,cooking
+111,584,Get spring onions,cooking
+112,828,Get the testing tube,health
+113,883,Use the tire lever around the rim until the tube is complete off the wheel,bike
+114,527,Get cucumber,cooking
+115,72,Add pepper,cooking
+116,49,Add honey,cooking
+117,571,Get pepper,cooking
+118,961,Add degreaser to the brush,bike
+119,611,Get fork,cooking
+120,890,Inflate the inner tube a little,bike
+121,82,Add sesame seeds,cooking
+122,1106,Add butter to skillet,cooking
+123,905,Inspect the bead seat line,bike
+124,503,Set a timer,health_cooking
+125,688,Put away bowl,cooking
+126,643,Pour the tea into the cup,cooking
+127,886,Check for any damage or splits in the thread,bike
+128,336,Cut green chilies,cooking
+129,655,Wash bowl,cooking
+130,1947,Drain the noodles into a strainer,cooking
+131,990,Place the lower part of the palm (heel) on the center of the patient's chest,health
+132,582,Get soy sauce,cooking
+133,546,Get green chilies,cooking
+134,820,Locate and unwrap test tube cap,health
+135,304,Cut celeries,cooking
+136,190,Wash tomato,cooking
+137,879,Squeeze out any air inside the tube,bike
+138,598,Get water,cooking
+139,1331,Cook until the omelet is cooked,cooking
+140,801,Put away sugar,cooking
+141,684,Wash spoon,cooking
+142,303,Cut carrots,cooking
+143,1207,Stir the mix of vegetables in the skillet,cooking
+144,47,Add green chilies,cooking
+145,1324,Stir fry egg mixture,cooking
+146,548,Get honey,cooking
+147,509,Get black pepper,cooking
+148,1944,Add the noodles in the boiling water,cooking
+149,902,Partially inflate the the tube to check the bead is properly seated,bike
+150,91,Add tea leaves,cooking
+151,561,Get noodles,cooking
+152,881,Engage a tire lever anywhere on the rim except right at the valve,bike
+153,774,Put away milk,cooking
+154,44,Add fresh ginger,cooking
+155,510,Get butter,cooking
+156,882,Pull back and lift the bead out of the rim,bike
+157,620,Get napkin,cooking
+158,671,Wash knife,cooking
+159,518,Get chili powder,cooking
+160,1353,Steep the tea until ready,cooking
+161,514,Get celeries,cooking
+162,829,Fill the testing with a testing solution,health
+163,19,Add chili powder,cooking
+164,682,Wash skillet or frying pan or wok,cooking
+165,782,Put away onions,cooking
+166,21,Add cilantro,cooking
+167,590,Get tea leaves,cooking
+168,310,Cut cilantro,cooking
+169,1946,Taste noodles to check the doneness,cooking
+170,914,Release caliper rim brake pads,bike
+171,513,Get carrots,cooking
+172,14,Add carrots,cooking
+173,940,Roll the wheel,bike
+174,59,Add milk,cooking
+175,2054,Add a mix of ingredients to a bowl,cooking
+176,663,Wash cutting board,cooking
+177,604,Get chopsticks,cooking
+178,520,Get cilantro,cooking
+179,1907,Get ginger,cooking
+180,15,Add celeries,cooking
+181,972,"Slowly move the chain by backpedaling with hand, applying lube into the rollers, one by one",bike
+182,621,Get peeler,cooking
+183,1565,Pour the dressing,cooking
+184,568,Get oyster sauce,cooking
+185,893,Remove the valve cap,bike
+186,951,Loosen the axle nuts,bike
+187,54,Add lemon juice,cooking
+188,587,Get tea bag,cooking
+189,1348,Add tea bags to hot water,cooking
+190,642,Get a fine-mesh sieve,cooking
+191,897,Unpack the new tube,bike
+192,2238,Pour hot water to a cup or mug,cooking
+193,486,Taste the recipe,cooking
+194,819,Locate test tube,health
+195,915,Pivot the derailleur back,bike
+196,936,Push the level inward and turn the axle CW to tighten,bike
+197,967,Use a cloth to dry off any liquid on the chain,bike
+198,580,Get sesame oil,cooking
+199,97,Add turmeric powder,cooking
+200,300,Cut butter,cooking
+201,581,Get sesame seeds,cooking
+202,927,Return wrenches,bike
+203,989,Kneel on the side of the patient's neck and shoulders,health
+204,706,Put away measuring tool (scoop or spoon or cup),cooking
+205,1788,Add the scrambled egg into the skillet,cooking
+206,1684,Break the scrambled egg into small pieces,cooking
+207,892,Attach dust cap to the valve of the wheel,bike
+208,918,Pull the release lever outwards,bike
+209,979,Have a conversation asking different questions,health
+210,997,Call for help,health
+211,673,Wash measuring tool (scoop or spoon or cup),cooking
+212,609,Get cutting board,cooking
+213,307,Cut cherry tomatoes,cooking
+214,1365,Grate ginger,cooking
+215,9,Add bell peppers,cooking
+216,1687,Transfer scrambled egg,cooking
+217,1787,Leave to cook until the tomato becomes a little mushy.,cooking
+218,922,Pull out the wheel from the bicycle frame,bike
+219,981,Check if the patient is responding at all,health
+220,704,Put away knife,cooking
+221,578,Get scallion,cooking
+222,508,Get bell peppers,cooking
+223,864,Stop timer,health
+224,849,Visually inspect the testing tube,health
+225,872,Collect saliva sample,health
+226,875,Remove dust cap from the wheel,bike
+227,942,Connect the brake noodle,bike
+228,946,Rotate the pedal,bike
+229,717,Put away spoon,cooking
+230,221,Peel cucumber,cooking
+231,808,Put away tomato,cooking
+232,596,Get turmeric powder,cooking
+233,182,Wash spring onions,cooking
+234,368,Cut scallion,cooking
+235,1364,Grate carrots,cooking
+236,952,Lift the wheel into the fork with the wheel axles into the fork slot,bike
+237,125,Wash cucumber,cooking
+238,715,Put away skillet or frying pan or wok,cooking
+239,748,Put away eggs,cooking
+240,856,Wait for the testing solution incubation time,health
+241,884,Push the valve through its hole,bike
+242,969,Get the chain lube,bike
+243,650,Add cinnamon stick,cooking
+244,1915,Get cinnamon stick,cooking
+245,98,Add vinegar,cooking
+246,18,Add cherry tomatoes,cooking
+247,2118,Add oyster sauce to a bowl,cooking
+248,858,Fold package box,health
+249,806,Put away tea leaves,cooking
+250,1853,Add oyster sauce to the skillet,cooking
+251,2298,Stir the milk in the pot,cooking
+252,1909,Cut ginger,cooking
+253,79,Add scallion,cooking
+254,615,Get kitchen tong,cooking
+255,907,Check for any damage or splits in the tube,bike
+256,2114,Add olive oil to a bowl,cooking
+257,716,Put away spatula,cooking
+258,627,Get sieve,cooking
+259,683,Wash spatula,cooking
+260,95,Add tomato sauce,cooking
+261,394,Remove seeds from bell peppers,cooking
+262,818,Check the expiration date,health
+263,877,Remove stem nut from the wheel,bike
+264,712,Put away pot or saucepan,cooking
+265,1338,Get an electric kettle,cooking
+266,690,Put away chopping board,cooking
+267,33,Add eggs,cooking
+268,896,Remove the dust cap,bike
+269,889,Fix stem nut to the wheel,bike
+270,947,Squeeze the brake,bike
+271,31,Add dried herbs,cooking
+272,564,Get olive oil,cooking
+273,553,Get lemon juice,cooking
+274,591,Get toasted sesame oil,cooking
+275,52,Add ketchup,cooking
+276,106,Wash bell peppers,cooking
+277,207,Peel carrots,cooking

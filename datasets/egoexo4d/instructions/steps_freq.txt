@@ -1,0 +1,630 @@
+adjust the stove heat: 446
+stir the mixture: 404
+read the instructions: 361
+check paper recipe: 350
+dispose waste: 306
+rotate and swirl the swab around for 5-10 times: 252
+throw out trash or waste: 231
+turn on the stove: 204
+add salt: 174
+get a bowl: 169
+wipe hands: 165
+turn off the stove: 162
+transfer food to a plate: 161
+locate and unwrap the collection swab: 157
+cover the test tube: 153
+add oil: 150
+cut tomato: 148
+slowly insert the tip of the swab into the nose: 147
+position the covid 19 test tube on the box: 146
+apply a few drops of the testing solution to the testing plate: 143
+slowly extract the swab from the nostril: 141
+tilt and rotate the skillet to allow oil or butter flow into empty space: 141
+get spoon: 140
+get plate: 138
+get knife: 135
+stir noodles in the pot: 135
+wash hands: 133
+arrange test material: 123
+add water: 121
+get salt: 121
+crack eggs into a mixing bowl: 119
+get eggs: 114
+unbox package: 114
+dip the swab into the testing tube: 113
+add tomato: 111
+tighten both axle nuts using a wrench: 105
+get oil: 104
+locate and unwrap the test plate: 100
+return the test kit items back into the box: 99
+repeat the process with the other nostril: 98
+cut onions: 97
+carefully open the test tube seal paper: 95
+stir the tea: 94
+check heat of the skillet: 93
+pour egg mixture into a skillet: 93
+fit the tire to the wheel: 90
+press hard at a rate of 100 to 120 compressions per minute: 90
+place the skillet or pan or pot on the stove: 89
+get spatula: 87
+get tomato: 83
+check the testing plate: 80
+fit the tube to the wheel: 79
+pull the inner tube out: 78
+confirm patient consciousness from the breath: 77
+get skillet or frying pan or wok: 74
+cut cucumber: 72
+cut garlic cloves: 72
+wait until water boils: 71
+add onions: 70
+get a cup or mug: 64
+get onions: 64
+get appropriate wrenches: 63
+fully inflate the tire: 61
+tap patient to confirm consciousness: 60
+peel garlic cloves: 59
+remove the swab from the testing tube: 58
+shake the test tube: 58
+get bike tire lever: 57
+get milk: 57
+inflate the inner tube a little: 57
+inspect the bead seat line: 57
+add sugar: 56
+get a new inner tube: 56
+loosen both axle nuts using a wrench: 55
+cut spring onions: 54
+wipe kitchen countertop: 54
+engage the valve stem into the rim: 53
+unwrap the testing tube: 53
+add garlic cloves: 51
+close the lid of a skillet or pan or pot: 51
+lift the lid of a skillet or pan or pot: 51
+use the tire lever around the rim until the tube is complete off the wheel: 51
+check for any damage or splits in the thread: 50
+get chopping board: 50
+get measuring tool (scoop or spoon or cup): 50
+put away salt: 50
+put away oil: 49
+add black pepper: 48
+get sugar: 46
+get garlic cloves: 45
+get the testing tube: 45
+put the wheel fully seated into the fork: 45
+add pepper: 44
+fold the instruction paper: 44
+stir milk with a spoon to mix well with water and tea: 44
+add butter to skillet: 43
+pour milk into the tea: 43
+add soy sauce: 42
+get pepper: 42
+place the other hand on top of the first: 42
+get a pot or saucepan: 41
+tilt and rotate skillet to allow uncooked egg to flow into empty spaces: 41
+stir the salad mixture: 40
+unwrap testing plate: 40
+wait for 15 minutes: 39
+get cucumber: 38
+peel onions: 38
+add spring onions: 37
+get fork: 37
+add cucumber: 36
+cut bell peppers: 36
+get spring onions: 35
+open the test tube lid: 35
+partially inflate the the tube to check the bead is properly seated: 35
+simmer the tea over low heat: 35
+stir fry egg mixture: 35
+cut green chilies: 34
+locate and unwrap test tube cap: 34
+put away bowl: 34
+squeeze out any air inside the tube: 34
+add sesame seeds: 33
+get napkin: 33
+wash tomato: 33
+pull back and lift the bead out of the rim: 32
+set a timer: 32
+place the lower part of the palm (heel) on the center of the patient's chest: 31
+pour the tea into the cup: 31
+slowly move the chain by backpedaling with hand: 31
+wash bowl: 31
+add honey: 30
+add sesame oil: 30
+get green chilies: 30
+add noodles: 29
+engage a tire lever anywhere on the rim except right at the valve: 29
+get butter: 29
+drain the noodles into a strainer: 28
+unpack the new tube: 28
+cut celeries: 27
+remove the valve cap: 27
+wash skillet or frying pan or wok: 27
+wash spoon: 27
+cut carrots: 26
+get soy sauce: 26
+put away milk: 26
+taste the recipe: 26
+add tea leaves: 25
+add the noodles in the boiling water: 25
+get water: 25
+return wrenches: 25
+steep the tea until ready: 25
+add green chilies: 24
+get chili powder: 24
+put away sugar: 24
+release caliper rim brake pads: 24
+wash knife: 24
+cut butter: 23
+fill the testing with a testing solution: 23
+get tea leaves: 23
+pour hot water to a cup or mug: 23
+slowly move the chain by backpedaling with hand, applying lube into the rollers, one by one: 23
+add a mix of ingredients to a bowl: 22
+attach dust cap to the valve of the wheel: 22
+check for any damage or splits in the tube: 22
+get black pepper: 22
+roll the wheel: 22
+stir the milk in the pot: 22
+stop timer: 22
+use a cloth to dry off any liquid on the chain: 22
+get celeries: 21
+get honey: 21
+get noodles: 21
+pivot the derailleur back: 21
+rotate the pedal: 21
+connect the brake noodle: 20
+get carrots: 20
+loosen the axle nuts: 20
+put away tomato: 20
+wait for the testing solution incubation time: 20
+add chili powder: 19
+add turmeric powder: 19
+cook until the omelet is cooked: 19
+cut scallion: 19
+get ginger: 19
+get tea bag: 19
+pull out the wheel from the bicycle frame: 19
+push the valve through its hole: 19
+wash cucumber: 19
+wash cutting board: 19
+add fresh ginger: 18
+add milk: 18
+add tea bags to hot water: 18
+get cutting board: 18
+get peeler: 18
+get scallion: 18
+get sesame seeds: 18
+lift the wheel into the fork with the wheel axles into the fork slot: 18
+pull the release lever outwards: 18
+put away spoon: 18
+remove dust cap from the wheel: 18
+remove stem nut from the wheel: 18
+add celeries: 17
+call for help: 17
+check if the patient is responding at all: 17
+get a fine-mesh sieve: 17
+get oyster sauce: 17
+get sesame oil: 17
+squeeze the brake: 17
+add lemon juice: 16
+add the scrambled egg into the skillet: 16
+break the scrambled egg into small pieces: 16
+brush the chain while it remains stationary: 16
+check phone: 16
+cut cilantro: 16
+fix stem nut to the wheel: 16
+get chopsticks: 16
+get cilantro: 16
+get the chain lube: 16
+get turmeric powder: 16
+push the level inward and turn the axle cw to tighten: 16
+put away knife: 16
+put away measuring tool (scoop or spoon or cup): 16
+taste noodles to check the doneness: 16
+add cilantro: 15
+add scallion: 15
+locate test tube: 15
+pour the dressing: 15
+put away eggs: 15
+add carrots: 14
+add cinnamon stick: 14
+check the brake: 14
+collect saliva sample: 14
+fold package box: 14
+get bell peppers: 14
+get sieve: 14
+kneel on the side of the patient's neck and shoulders: 14
+peel cucumber: 14
+put away chopping board: 14
+put away onions: 14
+put away tea leaves: 14
+remove the dust cap: 14
+visually inspect the testing tube: 14
+add tomato sauce: 13
+cook until the egg is cooked: 13
+cut ginger: 13
+get cinnamon stick: 13
+get kitchen tong: 13
+grate ginger: 13
+stir the mix of vegetables in the skillet: 13
+transfer scrambled egg: 13
+wash bell peppers: 13
+wash measuring tool (scoop or spoon or cup): 13
+wash spring onions: 13
+add vinegar: 12
+check the expiration date: 12
+get a cloth: 12
+get olive oil: 12
+put away napkin: 12
+put away pepper: 12
+wash carrots: 12
+add almonds: 11
+add bell peppers: 11
+add cherry tomatoes: 11
+add degreaser to the brush: 11
+add dried herbs: 11
+add ketchup: 11
+add olive oil to a bowl: 11
+add olive oil to a skillet: 11
+add oyster sauce to a bowl: 11
+add white pepper: 11
+fill an electric kettle with water: 11
+fold the omelet in half: 11
+place water on the stove: 11
+put away pot or saucepan: 11
+tighten the brake cable to the rear axle: 11
+add the prepared mix of vegetables to a bowl: 10
+get an electric kettle: 10
+grate carrots: 10
+have a conversation asking different questions: 10
+knead dough: 10
+pull the lever outward and turn the axle ccw until axle can be removed: 10
+put away black pepper: 10
+put away noodles: 10
+shake the mix of ingredients: 10
+toss the mixture: 10
+add eggs: 9
+add oyster sauce to the skillet: 9
+cut cherry tomatoes: 9
+get coffee grounds: 9
+get toasted sesame oil: 9
+get tomato sauce: 9
+hold the brush to the chain as you backpedal with hand: 9
+put away cucumber: 9
+put away skillet or frying pan or wok: 9
+put away soy sauce: 9
+remove seeds from bell peppers: 9
+wash celeries: 9
+wash cup or mug: 9
+wash plate: 9
+wash pot or saucepan: 9
+add cheese: 8
+apply the dust cap: 8
+clip the brake to the wheel: 8
+deflate the tube: 8
+get ketchup: 8
+get lemon juice: 8
+get the wheel: 8
+get white pepper: 8
+put away honey: 8
+put away oyster sauce: 8
+remove the tea bag: 8
+rotate the wheel: 8
+tighten the break pads: 8
+wash onions: 8
+wash spatula: 8
+add beef: 7
+add sealed solution: 7
+check the recipe instruction: 7
+fill a cup or mug with water: 7
+get almonds: 7
+get cheese: 7
+get dried herbs: 7
+get kitchen towel: 7
+get parsley: 7
+get the brush: 7
+get the degreaser: 7
+locate and unwrap the test strip: 7
+put away fresh ginger: 7
+put away garlic cloves: 7
+put away sesame seeds: 7
+put away spatula: 7
+put the bike on a bike repair stand: 7
+roll dough into ball: 7
+tighten the dust cap: 7
+wait until milk boils: 7
+wash garlic cloves: 7
+whisk the mix of ingredients: 7
+add chocolate: 6
+add cinnamon powder: 6
+add ginger paste: 6
+add hot milk: 6
+add hot sauce: 6
+add instant coffee to hot water: 6
+add parsley: 6
+add tamari: 6
+get a timer: 6
+measure out flour: 6
+peel carrots: 6
+peel fresh ginger: 6
+pour the coffee into a cup or mug: 6
+push the release lever inwards: 6
+put away butter: 6
+put away carrots: 6
+put away chili powder: 6
+put away ketchup: 6
+put away sesame oil: 6
+put away turmeric powder: 6
+put the bike upside down: 6
+remove seeds from tomato: 6
+remove the skillet or pan or pot from the stove: 6
+roll out dough with rolling pin or utensil: 6
+stir coffee with water mixture: 6
+stir the coffee: 6
+stir the dressing mixture: 6
+use knife (or pasta machine) to cut pasta: 6
+wash cherry tomatoes: 6
+wash chopsticks: 6
+wash scallion: 6
+add cardamom to tea: 5
+add cold milk: 5
+add flour to surface: 5
+add mayonnaise: 5
+dip the test strip into the testing tube: 5
+do artificial respirations two times after 30 press: 5
+fill a pot or saucepan with milk: 5
+get beef: 5
+get bike air pump: 5
+get bike wheel: 5
+get cardamom: 5
+get cherry tomatoes: 5
+get cinnamon powder: 5
+get hot sauce: 5
+get pot holder: 5
+get tamari: 5
+loosen and unthread the lock nut at the valve stem: 5
+mistake: 5
+mix water with egg and flour in a bowl: 5
+place a cloth underneath the chain to catch lube droppings: 5
+put away cinnamon sticks: 5
+put away coffee grounds: 5
+put away kettle: 5
+put away tomato sauce: 5
+unfold the instruction paper: 5
+visually inspect the recipe: 5
+wash fork: 5
+wash sieve: 5
+add cooked tomatoes into the skillet: 4
+add curry powder: 4
+add garlic paste: 4
+add mustard: 4
+add nutmeg: 4
+add peanut butter: 4
+blow nose: 4
+check the heat: 4
+clip the wheel to the hub and axle: 4
+cut cabbage: 4
+get flour: 4
+get ginger paste: 4
+get mayonnaise: 4
+get vinegar: 4
+get whisk: 4
+hold hand brake: 4
+if the bead rises up in one spot, deflate the inner tube and push it back down to reseat the bead: 4
+put away bell peppers: 4
+put away cardamom: 4
+put away chopsticks: 4
+put away cinnamon powder: 4
+put away green chilies: 4
+put away hot sauce: 4
+put away water: 4
+set the swab into the testing plate: 4
+shift the gear to the smallest cog: 4
+toss the salad in a mixing bowl: 4
+turn on the steam wand to start frothing: 4
+wash cilantro: 4
+wash ginger: 4
+wash green chilies: 4
+add ginger garlic paste to a mixing bowl: 3
+clean the brush: 3
+close the instant coffee jar: 3
+cover the testing plate: 3
+create hole in flour: 3
+cut a cross on the tomato: 3
+cut nutmeg: 3
+cut tea bag: 3
+fill the cleaning tool with degreaser: 3
+get chocolate: 3
+get coffee filter: 3
+get curry powder: 3
+get garlic paste: 3
+get ladle: 3
+get lime: 3
+get nutmeg: 3
+get peanut butter: 3
+get rice vinegar: 3
+get the cleaning tool: 3
+measure out the desired amount of coffee grounds: 3
+open the instant coffee jar: 3
+pour cold milk into a cup or mug: 3
+pour cold milk into a milk frothing pitcher: 3
+pour frothed milk into cup or mug: 3
+put away cup or mug: 3
+put away dried herbs: 3
+put away lemon juice: 3
+put away plate: 3
+put away scallion: 3
+put away sieve: 3
+remove presta valve from the wheel: 3
+submerge the steam wand tip just below the surface of the milk: 3
+toss or mix flour mixture: 3
+wash peeler: 3
+add cloves to tea: 2
+add coffee grounds: 2
+add flour to the skillet: 2
+add garlic powder: 2
+add lime juice to a mixing bowl: 2
+add mustard leaves to a bowl: 2
+add onion powder to a mixing bowl: 2
+add the coffee grounds to the filter in french press: 2
+check the both hand brakes: 2
+continue steaming until the milk reaches the desired temperature: 2
+cut almonds: 2
+cut chocolate: 2
+cut lettuce: 2
+cut mustard leaves: 2
+flatten dough with pasta machine: 2
+get a milk frothing pitcher: 2
+get cloves: 2
+get french press: 2
+get ginger garlic paste: 2
+get lemon: 2
+get lettuce: 2
+get radish: 2
+heat the saucepan: 2
+measure the temperature using an instant thermometer: 2
+mix egg and flour together: 2
+peel spring onions: 2
+place the lid on the french press: 2
+pour a small amount of boiling water into french press to preheat it: 2
+press the plunger: 2
+put away almonds: 2
+put away beef: 2
+put away celeries: 2
+put away chocolate: 2
+put away garlic paste: 2
+put away kitchen tong: 2
+put away mayonnaise: 2
+put away nutmeg: 2
+put away spring onions: 2
+put away tea bag: 2
+reduce water level: 2
+remove any thorns, nails, etc. that could puncture the fresh tube later: 2
+remove seeds from celeries: 2
+roll the sushi up from the bottom using your mat: 2
+turn on the electric kettle: 2
+wash kitchen tong: 2
+add beaten egg into hole: 1
+add cabbage: 1
+add cardamom to a mixing bowl: 1
+add cloves to a skillet: 1
+add degreaser to the chain: 1
+add feta cheese: 1
+add fresh thyme: 1
+add lemon to a mixing bowl: 1
+add lettuce: 1
+add mustard leaves to a skillet: 1
+add radish: 1
+add raw fish: 1
+add spinach to a mixing bowl: 1
+add sushi seasoning mixture to the cooked rice: 1
+add the desired amount of freshly ground coffee to the filter: 1
+attach the bicycle to the steel pole: 1
+check heat of the pot: 1
+check solutions tube: 1
+cut beef: 1
+cut black pepper: 1
+cut cheese: 1
+cut chili powder: 1
+cut lime: 1
+cut noodles: 1
+cut spinach: 1
+cut the sushi roll into pieces: 1
+drain the oranges, save liquid: 1
+drain the tea from tea bag or leave or infuser: 1
+get cabbage: 1
+get dried seaweed: 1
+get feta cheese: 1
+get fresh thyme: 1
+get garlic powder: 1
+get kitchen shears: 1
+get measuring cup: 1
+get mustard: 1
+get onion powder: 1
+get pitcher: 1
+get raw fish: 1
+get rolling pin: 1
+get spinach: 1
+get thru-axle: 1
+grate garlic: 1
+mix instant coffee in hot milk: 1
+mix instant coffee in hot water: 1
+peel coriander leaves: 1
+peel ice: 1
+place a sheet of dried seaweed on your rolling mat: 1
+place the filter bag over a bowl: 1
+pour cooked egg mixture into a plate: 1
+pour flour into mixing bowl: 1
+pour hot water in a slow, controlled manner over the coffee grounds: 1
+pour hot water into the cup through a filter bag: 1
+put away cheese: 1
+put away cherry tomatoes: 1
+put away cloves: 1
+put away coffee filter: 1
+put away curry powder: 1
+put away cutting board: 1
+put away fork: 1
+put away kitchen towel: 1
+put away olive oil: 1
+put away parsley: 1
+put away pot holder: 1
+put away rice vinegar: 1
+put away spinach: 1
+put away tamari: 1
+put away toasted sesame oil: 1
+put away vinegar: 1
+remove cinnamon from the milk: 1
+remove seeds from cucumber: 1
+spread a thin layer of sushi rice onto the sheet of nori: 1
+strain the coffee into a cup: 1
+turn on the electric rice cooker: 1
+warm up a cup by adding a little bit of hot water and swirl it around: 1
+wash cabbage: 1
+wash electric kettle: 1
+wash fresh parsley: 1
+wash ladle: 1
+wash lemon: 1
+wash lettuce: 1
+wash napkin: 1
+wash noodles: 1
+wash radish: 1
+wash tea bag: 1
+wash white pepper: 1
+whisk egg: 1
+add agave to a mixing bowl: 0
+add ingredients to egg mixture: 0
+add the coffee grounds to the filter in the pour-over device: 0
+add tomato paste to a skillet: 0
+as eggs begin to set, gently move spatula across bottom and side of skillet to form large, soft curds: 0
+check the wheel: 0
+close the lid of the coffee maker: 0
+cut milk: 0
+fill the water reservoir: 0
+flip the egg to cook evenly on both sides: 0
+gently push cooked portions toward the center of the skillet using a spatula as eggs set around the edge of the skillet: 0
+get agave: 0
+get coffee beans: 0
+get tomato paste: 0
+leave to cook until the tomato becomes a little mushy: 0
+operate the grinder: 0
+peel fresh cilantro: 0
+place a coffee filter in the designated basket: 0
+place the coffee filter (paper or metal) in the pour-over coffee maker or dripper: 0
+pour coffee beans into the grinder: 0
+put away flour: 0
+put away peeler: 0
+put away pour-over coffee maker or dripper: 0
+put away timer: 0
+put away tomato paste: 0
+remove seeds from green chilies: 0
+remove the pour-over device: 0
+rinse the filter paper: 0
+set the pour-over device on top of a coffee mug: 0
+spit into the testing tube: 0
+turn off the steam wand and remove it from the pitcher: 0
+turn on the coffee maker: 0
+wait until the desired amount of coffee is extracted: 0
+wash eggs: 0
+wet a sharp knife with cool water: 0
+whisk the dressing before pouring: 0
+whisk until the egg whites and yolks are well integrated: 0
+wrap or unwrap covid 19 rapid antigen test pack: 0

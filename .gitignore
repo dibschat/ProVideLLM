@@ -17,7 +17,6 @@ logs/
 pbslogs/
 outputs/
 wandb/
-data/
 .cache/
 ~$*
 tmp/
