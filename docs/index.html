@@ -6,7 +6,7 @@
   <meta name="author" content="Dibyadip Chatterjee">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Memory-efficient Streaming VideoLLMs for Real-Time Procedural Video Understanding</title>
+  <title>ProVideLLM</title>
   <link rel="stylesheet" href="stylesheet.css">
 
   <link rel="icon" type="image/png" href="images/ddLogo.png">
@@ -27,7 +27,7 @@
   <table id="title" class="table" align="center" border="0" cellspacing="0" cellpadding="10">
     <tr class="row">
       <td class="title-text" align="center">
-        Memory‑efficient Streaming VideoLLMs for Real‑time Procedural Video Understanding
+        Streaming VideoLLMs for Real‑time Procedural Video Understanding
       </td>
     </tr>
     <tr>
@@ -58,15 +58,14 @@
         </div>
         <div class="buttons">
           <a href="https://arxiv.org/abs/2504.13915" title="arXiv" rel="external nofollow noopener" target="_blank">
-            <i class="fas fa-file-pdf"></i> arXiv
+            <i class="fas fa-file-pdf"></i> &nbsp; arXiv
           </a>
-          <!-- <a href="https://github.com/dibschat/openvocab-egoAR" title="Code" rel="external nofollow noopener"
+          <a href="https://github.com/dibschat/ProVideLLM" title="Code" rel="external nofollow noopener"
             target="_blank">
-            <i class="fab fa-github"></i> Code
-          </a> -->
-          <a href="#" title="Code" rel="external nofollow noopener" target="_blank">
-            <i class="fab fa-github"></i> Code
-            <span style="color: #ff2800; font-size: 0.8em; margin-left: 4px;">(Coming Soon)</span>
+            <i class="fab fa-github"></i> &nbsp;Code
+          </a>
+          <a href="poster.pdf" title="poster" rel="external nofollow noopener" target="_blank">
+            <i class="fas fa-file-image"></i> &nbsp; Poster
           </a>
         </div>
       </td>
@@ -80,14 +79,14 @@
         <h1>Abstract</h1>
         <p>
           We introduce <em>ProVideLLM</em>, an end-to-end framework for real-time procedural video understanding.
-          ProVideLLM integrates a multimodal cache configured to store two types of tokens—verbalized text tokens,
-          which provide compressed textual summaries of long‑term observations, and visual tokens, encoded with
-          DETR‑QFormer to capture fine‑grained details from short‑term observations. This design reduces token count
-          by 22&times; over existing methods in representing one hour of long‑term observations while effectively
-          encoding present fine‑granularity. By interleaving these tokens in our multimodal cache, ProVideLLM ensures
-          sub‑linear scaling of memory and compute with video length, enabling per‑frame streaming inference at 10 FPS
-          and streaming dialogue at 25 FPS, with a minimal 2 GB GPU memory footprint. ProVideLLM also sets new
-          state‑of‑the‑art results on six procedural tasks across four datasets.
+          ProVideLLM integrates a multimodal cache configured to store two types of tokens - verbalized text tokens,
+          which provide compressed textual summaries of long-term observations, and visual tokens, encoded with
+          DETR-QFormer to capture fine-grained details from short-term observations. This design reduces token count by
+          22&times; over existing methods when representing one hour of long-term observations while effectively
+          encoding fine-granularity of the present. By interleaving these tokens in our multimodal cache, ProVideLLM
+          achieves sub-linear scaling of memory and compute with video length, ensuring per-frame streaming inference at
+          10 FPS and streaming dialogue at 25 FPS, with a minimal 2GB GPU memory footprint. ProVideLLM also sets new
+          state-of-the-art results on six procedural tasks across four datasets.
         </p>
       </td>
     </tr>

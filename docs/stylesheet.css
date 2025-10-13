@@ -60,8 +60,8 @@ strong {
 }
 
 .title-text {
-  font-size: 48px;
-  font-weight: 500;
+  font-size: 56px;
+  font-weight: 550;
   margin-top: 20px;
   margin-bottom: 10px;
   justify-content: center;
@@ -127,9 +127,9 @@ strong {
 }
 
 .conference-names p {
-  font-size: 22px;
+  font-size: 28px;
   font-weight: 600;
-  color: black;
+  color: #0078f5;
 }
 
 .buttons {
