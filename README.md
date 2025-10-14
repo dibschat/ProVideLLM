@@ -4,13 +4,17 @@ This repository provides official implementation of:
 > **Streaming VideoLLMs for Real-time Procedural Video Understanding (ICCV 2025)**  
 >Dibyadip Chatterjee, Edoardo Remelli, Yale Song, Bugra Tekin, Abhay Mittal, Bharat Bhatnagar, Necati Cihan Camgöz, Shreyas Hampali, Eric Sauser, Shugao Ma, Angela Yao, and Fadime Sener.  
 
-[![Project Page](https://img.shields.io/badge/Project_Page-ProVideLLM-blue?logo=github&style=flat-square)](https://dibschat.github.io/ProVideLLM)
-[![arXiv](https://img.shields.io/badge/arXiv-ProVideLLM-red?logo=arxiv&style=flat-square)](https://arxiv.org/abs/2504.13915)
+
+[![Webpage](https://img.shields.io/badge/Webpage-ProVideLLM-1f883d?logo=googlechrome&style=flat-square)](https://dibschat.github.io/ProVideLLM)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.13915-b31b1b.svg?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2504.13915)
+[![ICCV 2025](https://img.shields.io/badge/ICCV-2025-blueviolet?style=flat-square)](https://iccv.thecvf.com/virtual/2025/poster/1791)
+
+
 
 > [!NOTE]
 > **Release (Oct 2025):**  
-> This release upgrades the visual encoder to [SigLIP 2](https://arxiv.org/abs/2502.14786) which provides strong language alignment while preserving patch-level objectness through dense supervision during training.
-> We also pretrain DETR-QFormer on the larger EgoClip split (thanks to [Helping-Hands](https://github.com/Chuhanxx/helping_hand_for_egocentric_videos)) instead of EPIC-KITCHENS, further improving accuracy and advancing SOTA on EgoExo4D and COIN.
+> This release upgrades the visual encoder to [SigLIP 2](https://arxiv.org/abs/2502.14786) which provides stronger language alignment while preserving patch-level objectness through dense supervision during training.
+> We also pretrain DETR-QFormer on the larger EgoClip dataset instead of EPIC-KITCHENS, further improving accuracy and advancing SOTA on EgoExo4D and COIN.
 
 ## To-Do
 - [ ] Release verbalize & interleave code for streaming per-frame inference
@@ -37,7 +41,7 @@ It interleaves *verbalized long-term text tokens* and *DETR-QFormer encoded shor
 - **ProVideLLM-1B/5** — A **lightweight streaming model** optimized for real-time tasks.
   Achieves **>10 FPS** per-frame inference and **>25 FPS** streaming narration, running on a **single GPU with ~2 GB memory**.
 
-- **ProVideLLM-8B/11** — A **high-performing model** designed for **fine-grained online video understanding**.
+- **ProVideLLM-8B/11** — A **high-performing streaming model** designed for **fine-grained online video understanding**.
   Delivers **state-of-the-art accuracy** on procedural video benchmarks.
 
 
@@ -75,5 +79,5 @@ If you find our work useful, please cite:
 ```
 
 ## Acknowledgements
-This work builds upon the excellent open-source efforts of [VideoLLM-Online](https://github.com/showlab/videollm-online).
+Our work builds upon the excellent open-source efforts of [VideoLLM-Online](https://github.com/showlab/videollm-online) and [LLaVA](https://github.com/haotian-liu/LLaVA).
 We also thank [Helping-Hands](https://github.com/Chuhanxx/helping_hand_for_egocentric_videos) for providing pre-extracted hand–object bounding boxes for EgoClip.
