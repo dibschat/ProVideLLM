@@ -168,7 +168,7 @@ def build_live(
                     inference_mode=False,
                 )
                 model = get_peft_model(model, lora_config)
-            print(f"[Fine-tuning with LoRA] {model.print_trainable_parameters()}")
+            print(f"Fine-tuning with LoRA...")
         elif fine_tune == "connector":
             model.model.requires_grad_(False)
             model.lm_head.requires_grad_(False)

@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # set your environment variables here
-ROOT_PATH="../../"
-DATASET_DIR="../../datasets"
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+ROOT_PATH="${SCRIPT_DIR}/../.."
+DATASET_DIR="${ROOT_PATH}/datasets"
 
 N_GPUS=8
 BATCH_SIZE_PER_GPU=16

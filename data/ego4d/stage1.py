@@ -1,4 +1,4 @@
-import torch, os, re, json, decord, random, math, copy, itertools, psutil
+import torch, os, re, json, random, math, copy, itertools, psutil
 import Levenshtein as lev
 import numpy as np
 import pickle as pkl
