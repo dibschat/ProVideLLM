@@ -44,10 +44,21 @@ It interleaves *verbalized long-term text tokens* and *DETR-QFormer encoded shor
 - **ProVideLLM-8B/11** — A **high-performing streaming model** designed for **fine-grained online video understanding**.
   Delivers **state-of-the-art accuracy** on procedural video benchmarks.
 
+#### State-of-the-art results
+Enhanced release with [siglip2-so400m](https://huggingface.co/google/siglip2-so400m-patch14-384) as the vision encoder and Stage-1 pretraining on EgoClip, improving fine-grained recognition across benchmarks.
 
----
+**EgoExo4D — Fine-grained Keystep Recognition**
+| Model             | Val. Acc. (%) | Test Acc. (%) |
+|-------------------|--------------------:|--------------:|
+| ProVideLLM-8B/11  |       55.20         |     61.98     |
 
-### Requirements
+**COIN — Procedural Understanding** *(Top-1 Acc %)*
+| Model             | Step | Task | Next | Proc. | Proc.+ |
+|-------------------|-----:|-----:|-----:|------:|-------:|
+| ProVideLLM-8B/11  | 73.0 | 95.0 | 54.2 | 52.8  |  56.1  |
+
+
+## Requirements
 The following setup has been tested on Python 3.12 with CUDA 12.4.
 ```bash
 conda create -n providellm python=3.12
